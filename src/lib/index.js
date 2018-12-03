@@ -1,0 +1,1 @@
+"use strict";new Swiper(".swiper-container");

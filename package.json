@@ -1,0 +1,26 @@
+{
+  "name": "reweek",
+  "version": "1.0.0",
+  "description": "reweek",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nht0725/reweek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nht0725/reweek/issues"
+  },
+  "homepage": "https://github.com/nht0725/reweek#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "babel": "^6.23.0",
+    "gulp-babel": "^8.0.0"
+  }
+}
